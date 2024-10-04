@@ -23,8 +23,7 @@ The aim of this project is to develop a scraping system that collects data from 
   - `places that don't feel real`
   - `travel hacks`
 - Scrape TikTok posts based on the following hashtags:
-  - `#traveltok`, `#wanderlust`, `#backpackingadventures`, `#luxurytravel`
-  - `#hiddengems`, `#solotravel`, `#roadtripvibes`, `#travelhacks`, `#foodietravel`, `#sustainabletravel`
+  - `#traveltok`, `#wanderlust`, `#backpackingadventures`, `#luxurytravel`, `#hiddengems`, `#solotravel`, `#roadtripvibes`, `#travelhacks`, `#foodietravel`, `#sustainabletravel`
 
 ### 2. Extract and save the following data from each TikTok post:
   - `video_url`
@@ -43,8 +42,8 @@ The aim of this project is to develop a scraping system that collects data from 
   - Have at least **100k followers**.
   - Have received over **1 million likes**.
 
-### 2. Robust Data Storage
-- Data storage solutions can vary from simple file storage (e.g., CSV, JSON) to more complex database management systems (e.g., SQL, MongoDB).
+### 5. Robust Data Storage
+- Data storage solutions can vary from simple file storage (e.g., CSV, JSON) to more complex database management systems (e.g., SQL, NoSQL).
 - Flexibility in choosing the storage method allows the developer to design the schema based on their own preferences and project scale.
  
 
@@ -69,7 +68,7 @@ The aim of this project is to develop a scraping system that collects data from 
 - **Optimizations:** Any smart optimizations that improve scraping performance, such as handling rate limits, efficient data storage, and error-handling strategies, will be considered highly.
 - **scalable solution:** A scraper that is efficient in CPU and memory usage, capable of handling large volumes of data.
 - **Bonus Features:** While bonus features are appreciated, the core functionality must be completed before attempting bonus tasks.
-- **Mobile App Scraping:** Scraping from the official TikTok app is preferred, but that doesn't mean a poorly written app scraper will be prioritized over a well-optimized web scraper.
+- **Mobile App Scraping:** Scraping from the official TikTok app is encouraged, but that doesn't mean a poorly written app scraper will be prioritized over a well-optimized web scraper.
 
 ## Submit the Project
 - Create a public github repository and push all the codes to that repository including any sql/csv files you have.
