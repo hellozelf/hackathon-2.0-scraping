@@ -23,7 +23,7 @@ The aim of this project is to develop a scraping system that collects data from 
   - `places that don't feel real`
   - `travel hacks`
 - Scrape TikTok posts based on the following hashtags:
-  - `#traveltok`, `#wanderlust`, `#backpackingadventures`, `#luxurytravel`, `#hiddengems`, `#solotravel`, `#roadtripvibes`, `#travelhacks`, `#foodietravel`, `#sustainabletravel`
+  - [`#traveltok`](https://www.tiktok.com/tag/traveltok), [`#wanderlust`](https://www.tiktok.com/tag/wanderlust), [`#backpackingadventures`](https://www.tiktok.com/tag/backpackingadventures), [`#luxurytravel`](https://www.tiktok.com/tag/luxurytravel), [`#hiddengems`](https://www.tiktok.com/tag/hiddengems), [`#solotravel`](https://www.tiktok.com/tag/solotravel), [`#roadtripvibes`](https://www.tiktok.com/tag/roadtripvibes), [`#travelhacks`](https://www.tiktok.com/tag/travelhacks), [`#foodietravel`](https://www.tiktok.com/tag/foodietravel), [`#sustainabletravel`](https://www.tiktok.com/tag/sustainabletravel)
 
 ### 2. Extract and save the following data from each TikTok post:
   - `video_url`
